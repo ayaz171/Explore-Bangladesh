@@ -1,0 +1,3 @@
+#This will redirect to 404 page for any error
+
+ErrorDocument 404 http://explorebd.fahimuddin.dev/404.php
